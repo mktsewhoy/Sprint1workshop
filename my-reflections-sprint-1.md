@@ -57,18 +57,25 @@ Is there anything you'd do differently if you were to repeat the learning explor
     Not much, but I would probably seek second opinions about it. Namely how others handled it, and how the process could be made smoother.
 
 Tech #4: Track and Commit - Primer
+----------------------------------
 
 Tech #5: Branch, Pull, Merge - Primer
+-------------------------------------
 
 Tech #6: Branch, Pull, Merge - Challenge
+----------------------------------------
 
 Tech #7: GitHub Fork and Clone - Challenge
+------------------------------------------
 
 Tech #8: Set Remotes and Sync Fork - Primer
+-------------------------------------------
 
 Tech #9: Set Remotes and Sync Fork - Challenge
+----------------------------------------------
 
 Tech #10: Setup new Repo & Create Blog - Challenge
+--------------------------------------------------
 
 In addition to the challenge specific reflections, answer the following questions in your reflection:
 -----------------------------------------------------------------------------------------------------
