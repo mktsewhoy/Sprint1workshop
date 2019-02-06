@@ -78,12 +78,15 @@ Tech #5: Branch, Pull, Merge - Primer
 
 What is Master?
 
+    A Master is the main part of the repository where the "alpha" version of the code is normally stored.
 
 Why create a Branch?
 
+    Branches come in handy when major changes, additions, or experiments are being made. And when everyone is satisfied with the changes, they're merged back into the master.
 
 Do the concepts feel intuitive or difficult to understand?
     
+    The concepts are intuitive, at least in theory.
 
 Tech #6: Branch, Pull, Merge - Challenge
 ----------------------------------------
