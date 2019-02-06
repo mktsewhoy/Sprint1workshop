@@ -83,7 +83,7 @@ What is Master?
 
 Why create a Branch?
 
-    Branches come in handy when major changes, additions, or experiments are being made. And when everyone is satisfied with the changes, they're merged back into the master.
+    Branches come in handy when major changes, additions, or experiments are being made without adversely affecting the master. And when everyone is satisfied with the changes, they're merged back into the master.
 
 Do the concepts feel intuitive or difficult to understand?
     
@@ -214,12 +214,15 @@ Tech #5: Branch, Pull, Merge - Primer
 
 What is Master?
 
+    The Master is the central repository where the main "alpha" code is stored.
 
 Why create a Branch?
 
+    Branches come in handy when major changes, additions, or experiments are being made without adversely affecting the master. And when everyone is satisfied with the changes, they're merged back into the master.
 
 Do the concepts feel intuitive or difficult to understand?
     
+    The concepts are intuitive, at least in theory. Once the technical issues are navigated, it's easy when one knows how.
 
 Tech #6: Branch, Pull, Merge - Challenge
 ----------------------------------------
