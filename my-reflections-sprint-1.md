@@ -137,15 +137,15 @@ Tech #8: Set Remotes and Sync Fork - Primer
 
 What is the difference between cloning from a forked or non-forked repo.
 
-    
+    Cloning from a forked repo gives a developer their own instance, while a conventional clone is still under the control of the original owner.
 
 Can you think of an analogy to describe forking?
 
-
+    Forking can be thought of as building 2 identical houses which can then be modified differently.
 
 What is a remote?
 
-
+    A remote gives a specified destination, such as a URL, for storing and updating data.
 
 
 Tech #9: Set Remotes and Sync Fork - Challenge
