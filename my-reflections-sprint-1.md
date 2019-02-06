@@ -23,6 +23,28 @@ What was it like trying to summarise yourself to a group of strangers? Could you
 
     It's basically a group effort, so egoism wasn't an issue. We're all here to assist one another.
 
+Tech #1: Command Line - Primer
+------------------------------
+
+In a couple of sentences, how would you describe the command line in plain english? Can you think of an analogy for it?
+
+    The command line uses direct text commands to access and modify files. A good analogy is examining and fixing the underlying mechanicals of a car.
+
+Did you stick to the timebox guidelines? If not, what change would you make next time?
+
+    Yes, for the most part.
+
+Name 5 commands you used, and what they do
+
+    ls: Lists the files in the active directory.
+    stage: Prepares file(s) for committing.
+    commit: 'Solidifies' or 'welds' the file(s) for upload.
+    push: Uploads file(s).
+    status: Shows the current status of any changed files.
+
+Did you learn anything unexpected?
+    I learned how flexible the command line can be.
+
 Tech #2: Version Control with Git - Primer
 ------------------------------------------
 
@@ -129,8 +151,24 @@ What is a remote?
 Tech #9: Set Remotes and Sync Fork - Challenge
 ----------------------------------------------
 
+How are remotes set up?
+
+
+How would you explain a remote to a non-technical person using an analogy?
+
+
+How many times did you feel like "oh God I don't understand this"?
+
+
+
 Tech #10: Setup new Repo & Create Blog - Challenge
 --------------------------------------------------
+
+Reflect on this activity. When did you feel frustrated?
+
+
+If you didn't already know that this is the way websites are made; was it what you pictured? How does the reality of this process differ from your preconceptions?
+
 
 In addition to the challenge specific reflections, answer the following questions in your reflection:
 -----------------------------------------------------------------------------------------------------
