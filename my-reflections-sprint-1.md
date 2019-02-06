@@ -153,13 +153,15 @@ Tech #9: Set Remotes and Sync Fork - Challenge
 
 How are remotes set up?
 
+    Remotes are set up with the command: git remote add REMOTE-NAME https://URL.
 
 How would you explain a remote to a non-technical person using an analogy?
 
+    To the layperson, a remote could be compared to sending house plans to a builder on the other side of town and telling him to start construction.
 
 How many times did you feel like "oh God I don't understand this"?
 
-
+    Numerous times, it sometimes does comes across as a bit complex.
 
 Tech #10: Setup new Repo & Create Blog - Challenge
 --------------------------------------------------
