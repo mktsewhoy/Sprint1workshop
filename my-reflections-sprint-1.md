@@ -59,8 +59,31 @@ Is there anything you'd do differently if you were to repeat the learning explor
 Tech #4: Track and Commit - Primer
 ----------------------------------
 
+Define "commit"
+
+    A commit is best thought of as a game save point, in case something big has to be done, or a mistake has been made and needs to be fixed or rolled back.
+
+Demonstrate best practices for commit messages
+
+    Commit messages should be short and sweet, briefly describing what was done (but not why or how).
+
+Describe the three states of a file in git (working, staged, commit)
+    
+    Working: The file is open and being edited.
+    Staged: The file has been saved locally and is ready to upload.
+    Commit: The file is uploaded and updated to Github.
+
 Tech #5: Branch, Pull, Merge - Primer
 -------------------------------------
+
+What is Master?
+
+
+Why create a Branch?
+
+
+Do the concepts feel intuitive or difficult to understand?
+    
 
 Tech #6: Branch, Pull, Merge - Challenge
 ----------------------------------------
@@ -98,4 +121,4 @@ Which parts of the work did you find tedious?
 
 Did you hear a self critical voice in your head throughout the process of learning during this sprint? What did it say to you? Do you believe what it said?
 
-    That Rome wasn't built in a day.
+    Sometimes I'm afraid of having to play catch-up, which I address by reminding myself that Rome wasn't built in a day.
