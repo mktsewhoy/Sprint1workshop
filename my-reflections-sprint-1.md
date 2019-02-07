@@ -23,6 +23,28 @@ What was it like trying to summarise yourself to a group of strangers? Could you
 
     It's basically a group effort, so egoism wasn't an issue. We're all here to assist one another.
 
+Tech #1: Command Line - Primer
+------------------------------
+
+In a couple of sentences, how would you describe the command line in plain english? Can you think of an analogy for it?
+
+    The command line uses direct text commands to access and modify files. A good analogy is examining and fixing the underlying mechanicals of a car.
+
+Did you stick to the timebox guidelines? If not, what change would you make next time?
+
+    Yes, for the most part.
+
+Name 5 commands you used, and what they do
+
+    ls: Lists the files in the active directory.
+    stage: Prepares file(s) for committing.
+    commit: 'Solidifies' or 'welds' the file(s) for upload.
+    push: Uploads file(s).
+    status: Shows the current status of any changed files.
+
+Did you learn anything unexpected?
+    I learned how flexible the command line can be.
+
 Tech #2: Version Control with Git - Primer
 ------------------------------------------
 
@@ -73,32 +95,82 @@ Describe the three states of a file in git (working, staged, commit)
     Staged: The file has been saved locally and is ready to upload.
     Commit: The file is uploaded and updated to Github.
 
-Tech #5: Branch, Pull, Merge - Primer
+Tech #5/6: Branch, Pull, Merge - Primer
 -------------------------------------
 
 What is Master?
 
+    The Master is the central repository where the main "alpha" code is stored.
 
 Why create a Branch?
 
+    Branches come in handy when major changes, additions, or experiments are being made without adversely affecting the master. And when everyone is satisfied with the changes, they're merged back into the master.
 
 Do the concepts feel intuitive or difficult to understand?
     
-
-Tech #6: Branch, Pull, Merge - Challenge
-----------------------------------------
+    The concepts are intuitive, at least in theory. Once the technical issues are navigated, it's easy when one knows how.
 
 Tech #7: GitHub Fork and Clone - Challenge
 ------------------------------------------
 
+What are some examples of when you would fork?
+
+    Forking is ideal when big experimental changes have to be carried out in a more decentralised manner than with standard branches.
+
+Write your own step-by-step fork and clone instructions. Describe what you did.
+
+    1. Got to the original repo on Github and click Fork
+    2. Go to the forked repo in my Github
+    3. Click Settings and enable Issues
+    4. Clone the forked repo to local
+    5. In Explorer, open with VS Code
+    6. Copy & paste from existing Reflections file to forked one
+    7. Commit with the usual process
+
+Did you have any moments where it all clicked? What clicked?
+
+    When a perfect copy of the local and Github forks appeared. 
+
+
 Tech #8: Set Remotes and Sync Fork - Primer
 -------------------------------------------
+
+What is the difference between cloning from a forked or non-forked repo.
+
+    Cloning from a forked repo gives a developer their own instance, while a conventional clone is still under the control of the original owner.
+
+Can you think of an analogy to describe forking?
+
+    Forking can be thought of as building 2 identical houses which can then be modified differently.
+
+What is a remote?
+
+    A remote gives a specified destination, such as a URL, for storing and updating data.
+
 
 Tech #9: Set Remotes and Sync Fork - Challenge
 ----------------------------------------------
 
+How are remotes set up?
+
+    Remotes are set up with the command: git remote add REMOTE-NAME https://URL.
+
+How would you explain a remote to a non-technical person using an analogy?
+
+    To the layperson, a remote could be compared to sending house plans to a builder on the other side of town and telling him to start construction.
+
+How many times did you feel like "oh God I don't understand this"?
+
+    Numerous times, it sometimes does comes across as a bit complex.
+
 Tech #10: Setup new Repo & Create Blog - Challenge
 --------------------------------------------------
+
+Reflect on this activity. When did you feel frustrated?
+
+
+If you didn't already know that this is the way websites are made; was it what you pictured? How does the reality of this process differ from your preconceptions?
+
 
 In addition to the challenge specific reflections, answer the following questions in your reflection:
 -----------------------------------------------------------------------------------------------------
@@ -122,3 +194,4 @@ Which parts of the work did you find tedious?
 Did you hear a self critical voice in your head throughout the process of learning during this sprint? What did it say to you? Do you believe what it said?
 
     Sometimes I'm afraid of having to play catch-up, which I address by reminding myself that Rome wasn't built in a day.
+>>>>>>> 46b87fa39b165036eb6c2685714a5f1e6d161add
