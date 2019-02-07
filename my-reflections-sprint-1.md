@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Core #2: Thinking like a Programmer
 -----------------------------------
 
@@ -213,4 +212,3 @@ Which parts of the work did you find tedious?
 Did you hear a self critical voice in your head throughout the process of learning during this sprint? What did it say to you? Do you believe what it said?
 
     Sometimes I'm afraid of having to play catch-up, which I address by reminding myself that Rome wasn't built in a day.
->>>>>>> 46b87fa39b165036eb6c2685714a5f1e6d161add
