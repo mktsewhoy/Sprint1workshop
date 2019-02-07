@@ -178,6 +178,8 @@ If you didn't already know that this is the way websites are made; was it what y
 Git Messages (Stretch Challenge)
 --------------------------------
 
+In all cases, I learned what edit conflicts look like and how to steer clear of them.
+
 Figure 1:
 
     The user is trying to commit modified files, but the current status indicates a conflict in the form of the local folder being ahead of the master repository. One changed file has been staged, and two others have not. No files have been committed yet.
