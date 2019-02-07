@@ -185,11 +185,11 @@ Figure 1:
 
 Figure 2:
 
-    The user is pulling from the master repository, but the branch has unmerged changes. 
+    The user is retrieving data from the master repository, but an edit conflict has happened because the branch and master have uneven commits. Compounding this is that a file on the master has been deleted by another user remotely.
 
 Figure 3:
 
-
+    The user is examining the edit and commit history of the master repository, complete with details of what was changed and when the changes were made.
 
 In addition to the challenge specific reflections, answer the following questions in your reflection:
 -----------------------------------------------------------------------------------------------------
