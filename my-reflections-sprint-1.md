@@ -16,6 +16,7 @@ What did you learn about flipped classroom?
 Core #3: Identity, Values and Strengths Activity
 ------------------------------------------------
 
+    
 
 Core #4: Introduce yourself and get to know your cohort
 -------------------------------------------------------
@@ -168,9 +169,11 @@ Tech #10: Setup new Repo & Create Blog - Challenge
 
 Reflect on this activity. When did you feel frustrated?
 
+    When I had to refer back to certain Git command line syntax.
 
 If you didn't already know that this is the way websites are made; was it what you pictured? How does the reality of this process differ from your preconceptions?
 
+    I'm familiar with the destination, but this is a different roadmap from the ones I've used in the past.
 
 In addition to the challenge specific reflections, answer the following questions in your reflection:
 -----------------------------------------------------------------------------------------------------
