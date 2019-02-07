@@ -16,11 +16,7 @@ What did you learn about flipped classroom?
 Core #3: Identity, Values and Strengths Activity
 ------------------------------------------------
 
-    I'm Matthew Sew Hoy, and I've lived in Wellington most of my life, by way of Dunedin.
 
-    I've long had a fascination with details, which lends well to occupations like web dev and other related ICT areas. I've also come to realise that pulling together is increasingly important in a world of increasing polarisation.
-
-    Having worked in an industry that's under pressure from big box retail and technological change, I originally enrolled at Dev Academy in 2015, only to withdraw due to limited availability of finance. Now that Dev Academy qualifies for student loans, I've re-enrolled and here we are now.
 
 Core #4: Introduce yourself and get to know your cohort
 -------------------------------------------------------
@@ -178,6 +174,21 @@ Reflect on this activity. When did you feel frustrated?
 If you didn't already know that this is the way websites are made; was it what you pictured? How does the reality of this process differ from your preconceptions?
 
     I'm familiar with the destination, but this is a different roadmap from the ones I've used in the past.
+
+Git Messages (Stretch Challenge)
+--------------------------------
+
+Figure 1:
+
+    The user is trying to commit modified files, but the current status indicates a conflict in the form of the local folder being ahead of the master repository. One changed file has been staged, and two others have not. No files have been committed yet.
+
+Figure 2:
+
+    The user is pulling from the master repository, but the branch has unmerged changes. 
+
+Figure 3:
+
+
 
 In addition to the challenge specific reflections, answer the following questions in your reflection:
 -----------------------------------------------------------------------------------------------------
