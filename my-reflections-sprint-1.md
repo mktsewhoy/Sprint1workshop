@@ -16,7 +16,11 @@ What did you learn about flipped classroom?
 Core #3: Identity, Values and Strengths Activity
 ------------------------------------------------
 
-    
+    I'm Matthew Sew Hoy, and I've lived in Wellington most of my life, by way of Dunedin.
+
+    I've long had a fascination with details, which lends well to occupations like web dev and other related ICT areas. I've also come to realise that pulling together is increasingly important in a world of increasing polarisation.
+
+    Having worked in an industry that's under pressure from big box retail and technological change, I originally enrolled at Dev Academy in 2015, only to withdraw due to limited availability of finance. Now that Dev Academy qualifies for student loans, I've re-enrolled and here we are now.
 
 Core #4: Introduce yourself and get to know your cohort
 -------------------------------------------------------
