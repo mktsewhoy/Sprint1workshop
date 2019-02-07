@@ -178,7 +178,7 @@ If you didn't already know that this is the way websites are made; was it what y
 Git Messages (Stretch Challenge)
 --------------------------------
 
-In all cases, I learned what edit conflicts look like and how to steer clear of them.
+In all cases, I learned what edit conflicts look like and how best to steer clear of them.
 
 Figure 1:
 
